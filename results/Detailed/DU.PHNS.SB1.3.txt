@@ -1,0 +1,4 @@
+TeamId,SoftConfId,File,"#Correct","#All",Accuracy(%)
+INSIGHT-1,165,INSIGHT-1_PHNS_DU_B_SB1_3_1_C.xml,330,396,0.8333333
+IIT-TUDA,160,IIT-TUDA_PHNS_DU_B_SB1_3_1_U.xml,327,396,0.82575756
+baseline,999,baseline_PHNS_DU_B_SB1_3_1_C.xml,320,396,0.8080808

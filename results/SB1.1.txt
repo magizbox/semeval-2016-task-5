@@ -1,0 +1,217 @@
+"Lang.
+Dom.
+Sub.","Slot1
+F-1","Slot2
+F-1","Slot12
+F-1","Slot3
+Acc."
+"EN
+REST
+SB1"," NLANGP/U/73.031 
+ NileT./U/72.886 
+ BUTkn./U/72.396 
+ AUEB-./U/71.537 
+ BUTkn./C/71.494 
+ SYSU/U/70.869 
+ XRCE/C/68.701 
+ UWB/U/68.203 
+ INSIG./U/68.108 
+ ESI/U/67.979 
+ UWB/C/67.817 
+ GTI/U/67.714 
+ AUEB-./C/67.35 
+ NLANGP/C/65.563 
+ LeeHu./C/65.455 
+ TGB/C/63.919 
+ IIT-T./U/63.051 
+ DMIS/U/62.583 
+ DMIS/C/61.754 
+ IIT-T./C/61.227 
+ bunji/U/60.145 
+ basel./C/59.928 
+ UFAL/U/59.3 
+ INSIG./C/58.303 
+ IHS-R./U/55.034 
+ IHS-R./U/53.149 
+ SeemGo/U/50.737 
+ UWate./U/49.73 
+ CENNL./C/40.578 
+ BUAP/U/37.29 
+"," NLANGP/U/72.34 
+ AUEB-./U/70.441 
+ UWB/U/67.089 
+ UWB/C/66.906 
+ GTI/U/66.553 
+ Senti./C/66.545 
+ bunji/U/64.882 
+ NLANGP/C/63.861 
+ DMIS/C/63.495 
+ XRCE/C/61.98 
+ AUEB-./C/61.552 
+ UWate./U/57.067 
+ KnowC./U/56.816 
+ TGB/C/55.054 
+ BUAP/U/50.253 
+ basel./C/44.071 
+ IHS-R./U/43.808 
+ IIT-T./U/42.603 
+ SeemGo/U/34.332 
+"," NLANGP/U/52.607 
+ XRCE/C/48.891 
+ NLANGP/C/45.724 
+ TGB/C/43.081 
+ bunji/U/41.113 
+ UWB/C/41.108 
+ UWB/U/41.088 
+ DMIS/U/39.796 
+ DMIS/C/38.976 
+ basel./C/37.795 
+ IHS-R./U/35.608 
+ IHS-R./U/34.864 
+ UWate./U/34.536 
+ SeemGo/U/30.667 
+ BUAP/U/18.428 
+"," XRCE/C/88.126 
+ IIT-T./U/86.729 
+ NileT./U/85.448 
+ IHS-R./U/83.935 
+ ECNU/U/83.586 
+ AUEB-./U/83.236 
+ INSIG./U/82.072 
+ UWB/C/81.839 
+ UWB/U/81.723 
+ SeemGo/C/81.141 
+ bunji/U/81.024 
+ TGB/C/80.908 
+ ECNU/C/80.559 
+ UWate./U/80.326 
+ INSIG./C/80.21 
+ DMIS/C/79.977 
+ DMIS/U/79.627 
+ IHS-R./U/78.696 
+ Senti./U/78.114 
+ LeeHu./C/78.114 
+ basel./C/76.484 
+ bunji/C/76.251 
+ SeemGo/U/72.992 
+ AKTSKI/U/71.711 
+ COMMIT/C/70.547 
+ SNLP/U/69.965 
+ GTI/U/69.965 
+ CENNL./C/63.912 
+ BUAP/U/60.885 
+"
+"SP
+REST
+SB1"," GTI/U/70.588 
+ GTI/C/70.027 
+ TGB/C/63.551 
+ UWB/C/61.968 
+ INSIG./C/61.37 
+ IIT-T./U/59.899 
+ IIT-T./C/59.062 
+ UFAL/U/58.81 
+ basel./C/54.686 
+"," GTI/C/68.515 
+ GTI/U/68.387 
+ IIT-T./U/64.338 
+ TGB/C/55.764 
+ basel./C/51.914 
+"," TGB/C/41.219 
+ basel./C/36.379 
+"," IIT-T./U/83.582 
+ TGB/C/82.09 
+ UWB/C/81.343 
+ INSIG./C/79.571 
+ basel./C/77.799 
+"
+"FR
+REST
+SB1"," XRCE/C/61.207 
+ IIT-T./U/57.875 
+ IIT-T./C/57.033 
+ INSIG./C/53.592 
+ basel./C/52.609 
+ UFAL/U/49.928 
+"," IIT-T./U/66.667 
+ XRCE/C/65.316 
+ basel./C/45.455 
+"," XRCE/C/47.721 
+ basel./C/33.017 
+"," XRCE/C/78.826 
+ UWB/C/75.262 
+ UWB/C/74.319 
+ INSIG./C/73.166 
+ IIT-T./U/72.222 
+ basel./C/67.4 
+"
+"RU
+REST
+SB1"," UFAL/U/64.825 
+ INSIG./C/62.802 
+ IIT-T./C/62.689 
+ IIT-T./C/58.196 
+ basel./C/55.882 
+ Danii./C/39.601 
+ Danii./U/38.692 
+"," basel./C/49.308 
+ Danii./U/33.472 
+ Danii./C/30.618 
+"," basel./C/39.441 
+ Danii./U/22.591 
+ Danii./C/22.107 
+"," MayAnd/U/77.923 
+ INSIG./C/75.077 
+ IIT-T./U/73.615 
+ Danii./U/73.308 
+ Danii./C/72.538 
+ basel./C/71 
+"
+"DU
+REST
+SB1"," TGB/C/60.153 
+ INSIG./C/56 
+ IIT-T./U/55.247 
+ IIT-T./C/54.98 
+ UFAL/U/53.876 
+ basel./C/42.816 
+"," IIT-T./U/56.986 
+ TGB/C/51.775 
+ basel./C/50.64 
+"," TGB/C/45.167 
+ basel./C/30.916 
+"," TGB/C/77.814 
+ IIT-T./U/76.998 
+ INSIG./C/75.041 
+ basel./C/69.331 
+"
+"TU
+REST
+SB1"," UFAL/U/61.029 
+ basel./C/58.896 
+ IIT-T./U/56.627 
+ IIT-T./C/55.728 
+ INSIG./C/49.123 
+"," basel./C/41.86 
+"," basel./C/28.152 
+"," IIT-T./U/84.277 
+ INSIG./C/74.214 
+ basel./C/72.327 
+"
+"AR
+HOTE
+SB1"," INSIG./C/52.114 
+ UFAL/U/47.302 
+ basel./C/40.336 
+"," basel./C/30.978 
+"," basel./C/18.806 
+"," INSIG./C/82.719 
+ IIT-T./U/81.72 
+ basel./C/76.421 
+"
+"FR
+MUSE
+SB1",NA,NA,NA,NA
+"TU
+TELC
+SB1",NA,NA,NA,NA

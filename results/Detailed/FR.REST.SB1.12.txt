@@ -1,0 +1,3 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+XRCE,63,XRCE_REST_FR_A_SB1_12_1_C.xml,911,954,445,0.47721177
+baseline,999,baseline_REST_FR_A_SB1_12_1_C.xml,1045,954,330,0.33016506

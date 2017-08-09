@@ -1,0 +1,2 @@
+TeamId,SoftConfId,File,"#Correct","#All",Accuracy(%)
+baseline,999,baseline_REST_DU_B_SB2_3_1_C.xml,279,381,0.7322835

@@ -1,0 +1,3 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+TGB,128,TGB_REST_SP_A_SB1_12_1_C.xml,733,1072,372,0.41218838
+baseline,999,baseline_REST_SP_A_SB1_12_1_C.xml,1347,1072,440,0.36378667

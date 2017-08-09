@@ -1,0 +1,3 @@
+TeamId,SoftConfId,File,"#Correct","#All",Accuracy(%)
+UWB,157,UWB_REST_SP_B_SB2_3_1_C.xml,680,881,0.77185017
+baseline,999,baseline_REST_SP_B_SB2_3_1_C.xml,650,881,0.737798

@@ -1,0 +1,2 @@
+- AllResults.docx and AllResults.xlsx contain summary tables with all the results/rankings.
+- In the "Detailed" folder you will find a separate results file (in CSV format) per LANGUAGE.DOMAIN.SUBTASK.SLOT with more details (e.g. SoftConf id, file name).

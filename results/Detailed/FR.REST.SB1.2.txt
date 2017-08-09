@@ -1,0 +1,4 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+IIT-TUDA,82,IIT-TUDA_REST_FR_A_SB1_2_1_U.xml,625,650,425,0.6666667
+XRCE,63,XRCE_REST_FR_A_SB1_2_1_C.xml,535,650,387,0.65316457
+baseline,999,baseline_REST_FR_A_SB1_2_1_C.xml,516,650,265,0.45454547

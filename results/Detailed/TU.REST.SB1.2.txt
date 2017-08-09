@@ -1,0 +1,2 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+baseline,999,baseline_REST_TU_A_SB1_2_1_C.xml,70,145,45,0.41860464

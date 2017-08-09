@@ -1,0 +1,86 @@
+"Lang.
+Dom.
+Sub.","Slot1
+F-1","Slot3
+Acc."
+"EN
+LAPT
+SB1"," NLANGP/U/51.937 
+ AUEB-./U/49.105 
+ SYSU/U/49.076 
+ BUTkn./U/48.396 
+ UWB/C/47.891 
+ BUTkn./C/47.527 
+ UWB/U/47.258 
+ NileT./U/47.196 
+ NLANGP/C/46.728 
+ INSIG./U/45.863 
+ AUEB-./C/45.629 
+ IIT-T./U/43.913 
+ LeeHu./C/43.754 
+ IIT-T./C/42.609 
+ SeemGo/U/41.499 
+ INSIG./C/41.458 
+ bunji/U/39.586 
+ IHS-R./U/39.024 
+ basel./C/37.481 
+ UFAL/U/26.984 
+ CENNL./C/26.908 
+ BUAP/U/26.787 
+"," IIT-T./U/82.772 
+ INSIG./U/78.402 
+ ECNU/U/78.152 
+ IHS-R./U/77.903 
+ NileT./U/77.403 
+ AUEB-./U/76.904 
+ LeeHu./C/75.905 
+ Senti./U/74.282 
+ INSIG./C/74.282 
+ UWB/C/73.783 
+ UWB/U/73.783 
+ SeemGo/C/72.16 
+ UWate./U/71.286 
+ bunji/C/70.287 
+ bunji/U/70.162 
+ ECNU/C/70.037 
+ basel./C/70.037 
+ COMMIT/C/67.541 
+ GTI/U/67.291 
+ BUAP/U/62.797 
+ CENNL./C/59.925 
+ SeemGo/U/40.824 
+"
+"DU
+PHNS
+SB1"," INSIG./C/45.551 
+ IIT-T./U/45.443 
+ IIT-T./C/45.047 
+ basel./C/33.55 
+"," INSIG./C/83.333 
+ IIT-T./U/82.576 
+ basel./C/80.808 
+"
+"CH
+CAME
+SB1"," UWB/C/36.345 
+ INSIG./C/25.581 
+ basel./C/18.434 
+ SeemGo/U/17.757 
+"," SeemGo/C/80.457 
+ INSIG./C/78.17 
+ UWB/C/77.755 
+ basel./C/74.428 
+ SeemGo/U/73.181 
+"
+"CH
+PHNS
+SB1"," UWB/C/22.548 
+ basel./C/17.03 
+ INSIG./C/16.286 
+ SeemGo/U/10.43 
+"," SeemGo/C/73.346 
+ INSIG./C/72.401 
+ UWB/C/72.023 
+ basel./C/70.132 
+ SeemGo/U/65.406 
+"

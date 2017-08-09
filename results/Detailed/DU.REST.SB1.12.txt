@@ -1,0 +1,3 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+TGB,128,TGB_REST_DU_A_SB1_12_1_C.xml,463,613,243,0.45167285
+baseline,999,baseline_REST_DU_A_SB1_12_1_C.xml,1166,613,275,0.30916244

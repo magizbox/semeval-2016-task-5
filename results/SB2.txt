@@ -1,0 +1,69 @@
+"Lang.
+Dom.
+Sub.","Slot1
+F-1","Slot3
+Acc."
+"EN
+REST
+SB2"," GTI/U/83.995 
+ UWB/C/80.965 
+ UWB/U/80.163 
+ bunji/U/79.777 
+ basel./C/78.711 
+ SYSU/U/68.841 
+ SYSU/U/68.841 
+"," UWB/U/81.931 
+ ECNU/U/81.436 
+ UWB/C/80.941 
+ ECNU/C/78.713 
+ basel./C/74.257 
+ bunji/U/70.545 
+ bunji/C/66.584 
+ GTI/U/64.109 
+"
+"SP
+REST
+SB2"," GTI/C/84.192 
+ GTI/U/84.044 
+ basel./C/74.548 
+ UWB/C/73.657 
+"," UWB/C/77.185 
+ basel./C/73.78 
+"
+"RU
+REST
+SB2"," basel./C/84.792 
+"," basel./C/70.6 
+"
+"DU
+REST
+SB2"," basel./C/70.323 
+"," basel./C/73.228 
+"
+"TU
+REST
+SB2"," basel./C/72.642 
+"," basel./C/57.407 
+"
+"AR
+HOTE
+SB2"," basel./C/42.757 
+"," basel./C/73.216 
+"
+"EN
+LAPT
+SB2"," UWB/C/60.45 
+ UWB/U/59.721 
+ bunji/U/54.723 
+ basel./C/52.685 
+ SYSU/U/48.889 
+ SYSU/U/48.889 
+"," ECNU/U/75.046 
+ UWB/U/75.046 
+ UWB/C/74.495 
+ basel./C/73.028 
+ ECNU/C/67.523 
+ bunji/C/62.202 
+ bunji/U/60 
+ GTI/U/58.349 
+"

@@ -1,0 +1,2 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+baseline,999,baseline_HOTE_AR_A_SB1_2_1_C.xml,727,2372,480,0.30977735

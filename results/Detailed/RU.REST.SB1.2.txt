@@ -1,0 +1,4 @@
+TeamId,SoftConfId,File,"#Predicted","#Gold","#Common",F1-score
+baseline,999,baseline_REST_RU_A_SB1_2_1_C.xml,711,952,410,0.4930848
+Daniil Mashkin,65,Daniil Mashkin_REST_RU_A_SB1_2_2_U.xml,733,952,282,0.33471808
+Daniil Mashkin,65,Daniil Mashkin_REST_RU_A_SB1_2_1_C.xml,681,952,250,0.30618492

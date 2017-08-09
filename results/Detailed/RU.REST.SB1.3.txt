@@ -1,0 +1,7 @@
+TeamId,SoftConfId,File,"#Correct","#All",Accuracy(%)
+MayAnd,110,MayAnd_REST_RU_B_SB1_3_1_U.xml,1013,1300,0.7792308
+INSIGHT-1,165,INSIGHT-1_REST_RU_B_SB1_3_1_C.xml,976,1300,0.75076926
+IIT-TUDA,160,IIT-TUDA_REST_RU_B_SB1_3_1_U.xml,957,1300,0.73615384
+Daniil Mashkin,121,Daniil Mashkin_REST_RU_B_SB1_3_2_U.xml,953,1300,0.73307693
+Daniil Mashkin,121,Daniil Mashkin_REST_RU_B_SB1_3_1_C.xml,943,1300,0.7253846
+baseline,999,baseline_REST_RU_B_SB1_3_1_C.xml,923,1300,0.71

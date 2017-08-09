@@ -1,0 +1,4 @@
+TeamId,SoftConfId,File,"#Correct","#All",Accuracy(%)
+IIT-TUDA,160,IIT-TUDA_REST_TU_B_SB1_3_1_U.xml,134,159,0.8427673
+INSIGHT-1,165,INSIGHT-1_REST_TU_B_SB1_3_1_C.xml,118,159,0.7421384
+baseline,999,baseline_REST_TU_B_SB1_3_1_C.xml,115,159,0.7232704
