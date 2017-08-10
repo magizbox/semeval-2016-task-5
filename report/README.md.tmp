@@ -1,0 +1,11 @@
+# Exploratory Data Analysis
+
+* Reviews    : {{ data.num_reviews }}
+* Sentences  : {{ data.num_sentences }}
+* Opinions   : {{ data.num_opinions }}
+* Categories : {{ data.num_categories }}
+
+Categories - Polarities bar chart
+
+![](images/1.png)
+
